@@ -1,3 +1,23 @@
-Hei, her er test text. 
-nice
-okei bette now understood.
+kommentarer:
+
+- REST documentation = population of contries for the endpoint 
+
+- endpoint = is where you post your query altså interogate 
+- documentation = is basically starting point of how to use and interact with that service
+JSAON = DATA transfer form (origins main purpose)
+- Jason is a format which u can use to send data from server to client and from client to server even when u want to post(store) data.
+
+dynamic server (where u generate data)
+API = will connect u and the dynamic server
+u have to create a servelete and a client will send u a request. then this servelete will give u the data. 
+altså REQ and RES (web page or HTML page)
+siden du er ikke i Browseren så du trnger ikke hele web pagen men bare data inn i mobil appen din (værapp) 
+så da får du tilbake Enten JSAON eller XML format 
+i JSAON u create a object on the server side and therefore can just send the state of an object (data) for the app 
+So converting an object into a state and sending the state of an object (data) thats called a Representational state Transfer (REST).  
+
+CRUD Operation (Create, Read, Update and Delete) the resource = resource means (add?num1=num2/something) this means getting data from a resource.
+
+ POSTMAN = debugging, developing and testing ur application, cause it has his own test script syntax (use to write request to ur own services)
+
+ 

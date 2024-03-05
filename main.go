@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "fmt" //fmt = format (u r using)
 
-func main() {
-	fmt.Println("hello")
+func main() { //defining afunction (u r creating)
+	fmt.Println("hello bro !!")
 }
