@@ -37,3 +37,9 @@ func getStatusCode(url string) int {
 	defer response.Body.Close()
 	return response.StatusCode
 }
+
+/***************      I treid my best to fullfil this one but couldnt sorry:(
+var Starttime Time.time {
+	time.now()
+}
+*/
