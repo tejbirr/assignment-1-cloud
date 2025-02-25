@@ -1,8 +1,7 @@
-# Assignment-1
-Hi,
-    This is my first assignment for the cloud technologies course. In this assignment we were asked to develop a REST web application in Go that gives our users the details about books from Gutenberg Library (in a specific language). Additionally, the application should estimate the number of potential readers for that language using external web services, and present the results in a specified format.
+# Cloud Technologies - Assignment 1: REST Web Application in Go
+This project is my first assignment for the Cloud Technologies course. The task was to develop a RESTful web application in Go that retrieves book details from the Gutenberg Library for a specific language. Additionally, the application estimates the number of potential readers for that language using external web services and presents the results in a structured format.
 
-## Datiled Description
+## Detailed Description
 A list of features:
 My web service have three resource root paths
 - /librarystats/v1/bookcount/
@@ -57,4 +56,4 @@ Body Example:
 }
 
 ## General Thought:
-- This assignment was challenging for me, but I found it enjoyable overall. Initially, I underestimated it, thinking it was the first one and took it lightly. However, as I started working on it, I realized it required more time than I expected. Moving forward, I'll be more careful and allocate enough time for upcoming assignments.
+- This assignment was more challenging than I initially expected. I underestimated its complexity, assuming it would be straightforward since it was the first one. However, as I progressed, I realized it required more time and effort than anticipated. This experience has taught me to approach future assignments with better time management and careful planning.
